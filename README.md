@@ -4,8 +4,8 @@
 <img src="https://github.com/jrbastidas/jrbastidas/assets/103537788/a9443d60-d24b-4242-92c7-a53b4b08fa9d">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCx4mo8UQJ64aGtEFNKeVNTA)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=socia)]( )
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)]()
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=socia)](xxx)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](xxx)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?)
 ## Sobre mi
                                  
@@ -23,15 +23,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Mi experience </h3>
 <div align="center">
-<a href="XXX" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="XXX" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
 <p>
 <a href="XXXX" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="XXX" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="LINK_REPO" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=blac">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -41,12 +41,12 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Title</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="XXX" width="400" alt="PROYECTO DESTACADO"></a>
+<a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="PROYECTOS DESTACADO"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="LINK_REPO" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="LINK_DE_PROYECTO" target="_blank">
@@ -64,7 +64,7 @@
 <td width="50%">
 <h3 align="center">Curso Android Intermedio</h3>
 <div align="center">
-<a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Curso intermedio Android"></a>
+<a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
 <p>
 <a href="LINK_REPO target="_blank">
 <img src="PICTURE_CANVA">
@@ -79,7 +79,7 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">TITLE</h3>
 <div align="center">
 <a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
