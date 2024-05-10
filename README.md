@@ -34,14 +34,14 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=blac">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>title</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aprende a programar aplicaciones <strong>TITLE</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Title</h3>
+<h3 align="center">TITLE</h3>
 <div align="center">                                       
 <a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="PROYECTOS DESTACADO"></a>
 <br>
@@ -66,7 +66,7 @@
 <div align="center">
 <a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
 <p>
-<a href="LINK_REPO target="_blank">
+<a href="LINK_REPO" target="_blank">
 <img src="PICTURE_CANVA">
 </a>
 <a href="LINK_REPO" target="_blank">
@@ -87,7 +87,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="LINK_REPO" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
