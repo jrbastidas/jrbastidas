@@ -4,15 +4,15 @@
 <img src="https://github.com/jrbastidas/jrbastidas/assets/103537788/a9443d60-d24b-4242-92c7-a53b4b08fa9d">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCx4mo8UQJ64aGtEFNKeVNTA)](https://www.youtube.com/channel/UCx4mo8UQJ64aGtEFNKeVNTA)
-[![GitHub followers](https://img.shields.io/github/followers/jrbastidas)](https://github.com/jrbastidas)
-[![Instagram](https://discordapp.com/api/guilds/807719549075980308/widget.png?)]()
+[![GitHubfollowers](https://img.shields.io/github/followers/jrbastidas)](https://github.com/jrbastidas)
+[![Instagram]()]()
 ## Sobre mi
                                  
-- 🔭 I’m currently working on Restaurant 🍲 
-- 🌱 I’m currently learning Javascript, pythons, HTML, CSS, C# 📱 
-- 👯 I’m looking to collaborate on Not afraid to be Fullstack 🌕 
-- 📲 Software developer 
-- 💬 Ask me about Technologic
+- 🔭 I’m currently working in my dreams 🌠 with my motivation 👫
+- 🌱 I’m currently practicing Javascript, pythons,HTML,CSS,C# and more
+- 👯 I’m looking to collaborate in🕹️ Fullstack developer proyect 🏹
+- 📲 I am Software developer. 
+- 💬 Ask me about Technologic.
 - 📫 How to reach me: kinobigames@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have my collections of 🧢
