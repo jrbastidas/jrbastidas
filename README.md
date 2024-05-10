@@ -66,7 +66,7 @@
 <div align="center">
 <a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
 <p>
-<a href="LINK_REPO" target="_blank">
+<a href="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" target="_blank">
 <img src="PICTURE_CANVA">
 </a>
 <a href="LINK_REPO" target="_blank">
