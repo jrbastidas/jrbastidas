@@ -4,9 +4,9 @@
 <img src="https://github.com/jrbastidas/jrbastidas/assets/103537788/a9443d60-d24b-4242-92c7-a53b4b08fa9d">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCx4mo8UQJ64aGtEFNKeVNTA)](https://www.youtube.com/channel/UCx4mo8UQJ64aGtEFNKeVNTA)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=socia)](xxx)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](xxx)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?)
+<--[![Twitch Status]-->
+[![GitHub followers](https://img.shields.io/github/followers/jrbastidas)](https://github.com/jrbastidas)
+[![Instagram](https://discordapp.com/api/guilds/807719549075980308/widget.png?)]()
 ## Sobre mi
                                  
 - 🔭 I’m currently working on Restaurant 🍲 
