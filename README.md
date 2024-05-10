@@ -3,7 +3,7 @@
 </div>
 <img src="https://github.com/jrbastidas/jrbastidas/assets/103537788/a9443d60-d24b-4242-92c7-a53b4b08fa9d">
 
-[![YouTube Channel Subscribers](https://www.youtube.com/channel/UCx4mo8UQJ64aGtEFNKeVNTA)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCx4mo8UQJ64aGtEFNKeVNTA)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
