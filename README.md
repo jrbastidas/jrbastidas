@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Not afraid to be Fullstack 🌕 
 - 🤔 I’m looking for help with back-end 
 - 💬 Ask me about Technologic
-- 📫 How to reach me: kinobigames@gmailc.com
+- 📫 How to reach me: kinobigames@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have my collections of 🧢 
 
