@@ -43,7 +43,7 @@
                <br>
 <h3 align="center">TITLE</h3>
 <div align="center">                                       
-<a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="PROYECTOS DESTACADO"></a>
+<a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
 <br>
 <p>
 <a href="LINK_REPO" target="_blank">
