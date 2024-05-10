@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Mi experience </h3>
+<h3 align="center">TITLE </h3>
 <div align="center">
 <a href="XXX" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
 <p>
@@ -62,7 +62,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">TITLE</h3>
 <div align="center">
 <a href="LINK_REPO" target="_blank"><img src="PICTURE_CANVA" width="400" alt="TITLE"></a>
 <p>
