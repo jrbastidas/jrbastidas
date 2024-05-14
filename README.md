@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/jose-ricardo-bastidas-florez-480350190/">Jrbastidas</a> 👋</h1>
+<h1 align="center">Holl, I am <a href="https://www.linkedin.com/in/jose-ricardo-bastidas-florez-480350190/">Jrbastidas</a> 👋</h1>
 </div>
 <img src="https://github.com/jrbastidas/jrbastidas/assets/103537788/a9443d60-d24b-4242-92c7-a53b4b08fa9d">
 
@@ -10,15 +10,15 @@
                                  
 - 🔭 I’m currently working in my dreams 🌠 with my motivation 👫
 - 🌱 I’m currently practicing Javascript, pythons,HTML,CSS,C# and more
-- 👯 I’m looking to collaborate in🕹️ Fullstack developer proyect 🏹
-- 📲 I am Software developer. 
+- 👯 I’m looking to collaborate in🕹️ Fullstack developer proyects🏹
+- 📲 I am Software developer from Southern Alberta institute of technology. 
 - 💬 Ask me about Technologic.
 - 📫 How to reach me: kinobigames@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have my collections of 🧢
   <br>
 
-## Proyectos *bombitas*
+## working on that proyects😏
 <table>
 <tr>
 <td width="50%">
