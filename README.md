@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I have my collections of 🧢
   <br>
 
-## Working on that proyects😏
+## Working on this proyects😏
 <table>
 <tr>
 <td width="50%">
