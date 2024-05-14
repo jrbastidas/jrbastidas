@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center">Holl, I am <a href="https://www.linkedin.com/in/jose-ricardo-bastidas-florez-480350190/">Jrbastidas</a> 👋</h1>
+<h1 align="center">Hello, I am <a href="https://www.linkedin.com/in/jose-ricardo-bastidas-florez-480350190/">Jrbastidas</a> 👋</h1>
 </div>
 <img src="https://github.com/jrbastidas/jrbastidas/assets/103537788/a9443d60-d24b-4242-92c7-a53b4b08fa9d">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCx4mo8UQJ64aGtEFNKeVNTA)](https://www.youtube.com/channel/UCx4mo8UQJ64aGtEFNKeVNTA)
 [![GitHubfollowers](https://img.shields.io/github/followers/jrbastidas)](https://github.com/jrbastidas)
 [![Instagram]()]()
-## Sobre mi
+## About me
                                  
 - 🔭 I’m currently working in my dreams 🌠 with my motivation 👫
 - 🌱 I’m currently practicing Javascript, pythons,HTML,CSS,C# and more
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I have my collections of 🧢
   <br>
 
-## working on that proyects😏
+## Working on that proyects😏
 <table>
 <tr>
 <td width="50%">
